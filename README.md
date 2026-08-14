@@ -1,71 +1,73 @@
 # Hi, I'm Bhagyashree Karale 👋
 
 **Software Engineer @ NatWest Group**
-**Backend Engineering · APIs · Systems Design · Developer Tooling**
+**Full-Stack & Backend Engineering · APIs · Developer Platforms · Engineering Productivity**
 
-I design and build backend systems and developer platforms that scale. My focus is on writing reliable, maintainable code and creating tools that make teams more productive.
+I build production software and engineering platforms across the stack, with a focus on **backend systems, APIs, developer tooling, and automation**.
 
-At NatWest Group, I've worked on **API infrastructure, platform tooling, and engineering systems** serving **50+ teams and 120+ microservices**. I'm most energized by problems that span multiple systems, require thoughtful architecture, and have real impact on developer productivity and product quality.
+At NatWest Group, I've worked on engineering platforms supporting **50+ engineering teams and 120+ microservices**, taking ownership across implementation, automation, developer experience, and platform improvement. My experience spans **quality engineering → test automation → software development → platform engineering**, giving me a broad view of how software is built, tested, shipped, and improved.
 
-## ⚡ Technical Focus
+## ⚡ Engineering Focus
 
-* **Backend Engineering** — Java, Python, REST APIs, microservices, system design
-* **API & Platform Engineering** — API governance, rate limiting, service health monitoring, developer platforms
-* **Distributed Systems** — asynchronous messaging, event-driven architectures, observability pipelines
-* **Engineering Tooling** — automation, CI/CD, developer experience, onboarding workflows
-* **Quality & Reliability** — test automation, monitoring, debugging complex production issues
+* **Backend & APIs** — Java, Spring Boot, Python, REST APIs, microservices, API design
+* **Full-Stack Engineering** — JavaScript, TypeScript, React, HTML/CSS
+* **Developer Platforms** — API governance, internal tooling, service onboarding, developer experience
+* **Engineering Productivity** — automation, CI/CD, developer workflows, platform adoption
+* **Reliability & Quality** — test automation, validation, observability, debugging, release confidence
 
-## 💼 Selected Engineering Work
+## 💼 Selected Engineering Impact
 
-* **API Governance & Platform** — Contributed to an internal platform serving 50+ teams and 120+ microservices. Implemented rate limiting visibility, compliance validation, and adoption tracking across multiple service types.
+**API Governance & Developer Platform**
+Worked on an internal engineering platform supporting **50+ teams and 120+ microservices**, improving API governance, validation, visibility, and adoption across services.
 
-* **Developer Onboarding Automation** — Redesigned and automated service onboarding workflows, reducing manual setup time from 3+ days to under 4 hours. Built tooling for configuration management and validation.
+**Developer Onboarding Automation**
+Redesigned and automated service onboarding workflows, reducing onboarding time from **3+ days to under 4 hours** and removing significant manual setup.
 
-* **API Observability Pipeline** — Designed real-time health monitoring system tracking latency, error rates, and compliance signals. Built data ingestion layer and dashboards for engineering visibility.
+**Platform Observability**
+Built engineering health dashboards tracking **platform adoption, validation failures, and latency trends**, giving teams better visibility into platform health and usage.
 
-* **Developer Platform Migrations** — Led migration from Postman to Bruno across 50+ teams. Coordinated cross-team adoption and built supporting tooling for workflow integration.
+**Developer Tooling Migration**
+Led the migration from **Postman to Bruno** across engineering teams, coordinating adoption and improving the API development and testing workflow.
 
-* **Test Automation Framework** — Built Java/Selenium/Cucumber test automation reducing manual testing effort by 60% and improving deployment confidence.
+**Test Automation**
+Built **Java, Selenium, and Cucumber** automation solutions that reduced repetitive testing effort and significantly shortened execution time.
 
-## 🧩 Technical Projects
+## 🛠️ Technical Stack
 
-### API Health Monitor
-Real-time observability pipeline for service health and performance signals.
+**Languages**
+Java · Python · JavaScript · TypeScript · C#
 
-**Python · Kafka · PostgreSQL · Grafana · REST APIs**
+**Backend & APIs**
+Spring Boot · REST APIs · Microservices · API Design
 
-### Backstage SCM Rate Limit Plugin
-Developer platform integration providing cross-provider rate limit visibility for GitHub and GitLab.
+**Frontend**
+React · HTML · CSS
 
-**TypeScript · Backstage · GitHub/GitLab APIs · React**
+**Engineering & Delivery**
+Docker · CI/CD · Git · GitHub · Postman · Bruno
 
-### WhatsApp Notification Router
-Notification routing system combining rule-based logic with LLM-based intelligent decisioning.
+**Microsoft Platform**
+Power Apps · Power Automate · Power BI · Dynamics 365
 
-**Python · APIs · LLM Integration · Async Processing**
+## 🔭 Engineering Interests
 
-## 🛠️ Technical Skills
+I'm particularly interested in building and understanding systems around:
 
-**Languages:** Java · Python · JavaScript · TypeScript
+* **Scalable API architectures**
+* **Microservices and service boundaries**
+* **Distributed systems fundamentals**
+* **Reliability, observability, and performance**
+* **Caching and asynchronous processing**
+* **Developer platforms and engineering productivity**
 
-**Backend & Systems:** Spring Boot · REST APIs · Microservices · Distributed Systems · Async Messaging
+I learn these areas through **hands-on implementation, experimentation, and open-source work** rather than treating them purely as theoretical concepts.
 
-**DevOps & Tools:** CI/CD · Docker · Git · Kafka · PostgreSQL
+## 🤝 Engineering Philosophy
 
-**Platforms:** Microsoft Power Suite · GitHub/GitLab APIs
+I care about building software that is not only correct, but also **well-designed, observable, maintainable, and useful to the engineers who depend on it**.
 
-## 🎯 What I'm Working On
-
-**Backend Systems & Architecture** — Diving deeper into distributed systems design, scalability patterns, and building systems that handle complexity well.
-
-**API Design & Performance** — Exploring API versioning strategies, caching architectures, and rate limiting patterns at scale.
-
-**Open Source** — Contributing to projects in backend infrastructure, developer tooling, and systems design.
-
-## 🤝 Philosophy
-
-I believe great engineering is about **writing code that scales, systems that are observable, and tools that make developers' lives easier**. I'm excited about mentoring others, solving hard technical problems, and shipping software that matters.
+The problems I enjoy most are those where a technical improvement can create a measurable difference — whether that's reducing operational effort, improving developer workflows, increasing visibility into a system, or making software easier to evolve.
 
 ---
 
-**Building reliable systems. Improving developer productivity. Shipping with confidence.**
+**Building reliable software. Improving developer experience. Learning by shipping.**
